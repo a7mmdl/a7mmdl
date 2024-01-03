@@ -87,7 +87,7 @@
   <a href="mailto:0423rafi@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="[+971556683794](https://wa.me/+971556683794)" target="_blank">
+  <a href="https://wa.me/+971556683794" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
   </a>
 </div>
