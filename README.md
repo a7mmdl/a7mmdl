@@ -19,7 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="32" alt="django logo"  />
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="32" alt="django logo"  />
+  </a>
 </div>
 
 ###
