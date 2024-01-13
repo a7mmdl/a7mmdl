@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello there! I'm a7mmdl, a passionate developer. I love creating solutions and learning about new technologies. I build applications on both the frontend and backend using JavaScript, Python, PHP, SQL and other languages.<br><br>I enjoy taking on new challenges and developing robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</p>
+<p align="left">Hello there! I'm a7mmdl, a passionate developer. I love creating solutions and learning about new technologies. I build applications on both the frontend and backend using JavaScript, Python, Php, SQL and other languages.<br><br>I enjoy taking on new challenges and developing robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</p>
 
 ###
 
