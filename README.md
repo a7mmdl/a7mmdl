@@ -31,7 +31,7 @@
 <hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 
-<h4 align="center">Backend</h4>
+<h3 align="center">Backend</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 <hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 
-<h4 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 <hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 
-<h4 align="center">Languages</h4>
+<h3 align="center">Languages</h3>
 
 ###
 
@@ -79,7 +79,7 @@
 
 <hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
-<h4 align="center">Databases</h4>
+<h3 align="center">Databases</h3>
 
 ###
 
