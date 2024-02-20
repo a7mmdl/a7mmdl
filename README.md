@@ -8,7 +8,8 @@
 
 <h3 align="center">I'm a Software Developer with expertise in Web Development.</h3>
 
-###
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px auto; width: 80%;">
+
 
 <div align="center">
   <a href="https://twitter.com/A7mmdl_" target="_blank">
