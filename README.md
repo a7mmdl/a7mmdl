@@ -20,7 +20,7 @@
   </a>
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 <h4 align="center">I build applications on both the frontend and backend using JavaScript, Python, Php, SQL and other languages.<br><br>I develop robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</h4>
 
@@ -28,7 +28,8 @@
 
 <h3 align="left">🛠 Technologies & Tools</h3>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
+
 
 <h4 align="center">Backend</h4>
 
@@ -38,7 +39,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="32" alt="django logo"  />
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
+
 
 <h4 align="center">Frontend</h4>
 
@@ -60,7 +62,8 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
+
 
 <h4 align="center">Languages</h4>
 
@@ -74,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 <h4 align="center">Databases</h4>
 
@@ -88,13 +91,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="26" alt="mysql logo"  />
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
+
 <h3 align="center">Contact Me</h3>
 
 <p align="center">If you're open to collaboration or simply want to connect, feel free to get in touch anytime!</p>
 <div align="center">
   <a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
 </div>
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 <h4 align="centre">📈 My Stats</h4>
 
@@ -105,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7mmdl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
-###
+<hr style="border: none; border-top: 0.2px solid #ccc; margin: 20px auto; width: 80%;">
 
 <br>
 <!-- Footer -->
