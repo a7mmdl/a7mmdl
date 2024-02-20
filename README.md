@@ -94,7 +94,7 @@
 ###
 
 <h6 align="center">If you're open to collaboration or simply want to connect, feel free to get in touch anytime!</h6>
-<div style="text-align:center;"><a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a></div>
+<a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
 ###
 
 <h4 align="centre">📈 My Stats</h4>
