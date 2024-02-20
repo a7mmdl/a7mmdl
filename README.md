@@ -88,14 +88,12 @@
 </div>
 
 ###
-
 <h3 align="center">Contact Me</h3>
 
-###
-
 <h6 align="center">If you're open to collaboration or simply want to connect, feel free to get in touch anytime!</h6>
-<a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
-###
+<div align="center">
+  <a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
+</div>
 
 <h4 align="centre">📈 My Stats</h4>
 
