@@ -21,7 +21,7 @@
 
 ###
 
-<h5 align="center">I build applications on both the frontend and backend using JavaScript, Python, Php, SQL and other languages.<br><br>I develop robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</h5>
+<h4 align="center">I build applications on both the frontend and backend using JavaScript, Python, Php, SQL and other languages.<br><br>I develop robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</h4>
 
 ###
 
@@ -94,11 +94,10 @@
 ###
 
 <h6 align="center">If you're open to collaboration or simply want to connect, feel free to get in touch anytime!</h6>
-<a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
-
+<div style="text-align:center;"><a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a></div>
 ###
 
-<h4 align="left">📈 My Stats</h4>
+<h4 align="centre">📈 My Stats</h4>
 
 ###
 
