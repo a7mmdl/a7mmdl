@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm a Software Developer with expertise in Web Development.</h3>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px auto; width: 80%;">
+<hr style="border: none; border-top: 0.5px solid #ccc; margin: 20px auto; width: 80%;">
 
 
 <div align="center">
