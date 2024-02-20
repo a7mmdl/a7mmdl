@@ -1,14 +1,14 @@
 <h1 align="center">Hey there, I'm a7mmdl 👋</h1>
 
-###
+<hr>
 
 <h2 align="center">🚀 About Me</h2>
 
-###
+<hr>
 
 <h3 align="center">I'm a Software Developer with expertise in Web Development.</h3>
 
-###
+<hr>
 
 <div align="center">
   <a href="https://twitter.com/A7mmdl_" target="_blank">
@@ -19,29 +19,29 @@
   </a>
 </div>
 
-###
+<hr>
 
 <h4 align="center">I build applications on both the frontend and backend using JavaScript, Python, Php, SQL and other languages.<br><br>I develop robust backend systems and engaging user interfaces with tools like Django and Next.js. I also work with databases such as SQLite and PostgreSQL, as well as HTML and CSS for polished results.<br><br>Let's connect and work together to create something amazing!</h4>
 
-###
+<hr>
 
 <h3 align="left">🛠 Technologies & Tools</h3>
 
-###
+<hr>
 
 <h4 align="center">Backend</h4>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="32" alt="django logo"  />
 </div>
 
-###
+<hr>
 
 <h4 align="center">Frontend</h4>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
@@ -59,11 +59,11 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
+<hr>
 
 <h4 align="center">Languages</h4>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
@@ -73,11 +73,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+<hr>
 
 <h4 align="center">Databases</h4>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="26" alt="sqlite logo"  />
@@ -87,7 +87,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="26" alt="mysql logo"  />
 </div>
 
-###
+<hr>
+
 <h3 align="center">Contact Me</h3>
 
 <p align="center">If you're open to collaboration or simply want to connect, feel free to get in touch anytime!</p>
@@ -95,16 +96,16 @@
   <a href="mailto:0423rafi@gmail.com">0423rafi@gmail.com</a>
 </div>
 
-<h4 align="centre">📈 My Stats</h4>
+<hr>
 
-###
+<h4 align="center">📈 My Stats</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a7mmdl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="122" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a7mmdl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
-###
+<hr>
 
 <br>
 <!-- Footer -->
