@@ -1,4 +1,4 @@
-[![Uploading dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif…]()](https://jmp.sh/s/LRgk6yeaPRtNMwtnDT5h)
+[![temp-Imagehu-O0-As.avif](https://i.postimg.cc/wBsvnFqx/temp-Imagehu-O0-As.avif)](https://postimg.cc/hJccdLQN)
 
 <h1 align="center">Hey there, I'm a7mmdl 👋</h1>
 
