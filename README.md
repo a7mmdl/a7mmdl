@@ -1,6 +1,6 @@
 ![Alt Text](animated.gif)
 
-<h1 align="center">Hey there, I'm a7mmdl 👋</h1>
+<h1 align="center">Hey there, I'm Ahmed Rafi 👋</h1>
 
 ###
 
